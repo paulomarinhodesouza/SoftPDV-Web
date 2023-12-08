@@ -6,7 +6,7 @@
 
 ## Tecnologias
 
-* Java Web
+* Java Spring
 * JavaScript
 * CSS
 
